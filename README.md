@@ -1,1 +1,1 @@
-# -E-COMMERCE-ICECREAM-STRUCTURE
+# e commerce website structure
